@@ -1,6 +1,7 @@
 /*
-Created by Ayush Jha
 Q5. WAP TO COPY FILES USING SYSTEM CALLS(USING COPY FUNCTION.
+Created by Ayush Jha
+
 
 */
 
