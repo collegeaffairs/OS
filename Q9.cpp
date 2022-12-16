@@ -1,4 +1,5 @@
-//  Implementation of Non-Preemptive Priority scheduling
+//  Implementation of Non-Preemptive Priority scheduling.
+
 #include <iostream>
 using namespace std;
 
